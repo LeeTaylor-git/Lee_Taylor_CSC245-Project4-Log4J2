@@ -1,45 +1,13 @@
-2022-04-02 11:48:07,054 DEBUG e.a.c.HelloWorld [main] Hello from Log4j 2
-2022-04-02 11:48:07,055 DEBUG e.a.c.HelloWorld [main] Example of a DEBUG 1
-2022-04-02 11:48:07,056 FATAL e.a.c.HelloWorld [main] Example of a FATAL 2
-2022-04-02 11:48:07,056 ERROR e.a.c.HelloWorld [main] Example of a ERROR 3
-2022-04-02 11:48:07,056 WARN e.a.c.HelloWorld [main] Example of a WARN 4
-2022-04-02 11:48:07,056 INFO e.a.c.HelloWorld [main] Example of a INFO 5
-2022-04-02 11:52:40,338 DEBUG e.a.c.HelloWorld [main] Hello from Log4j 2
-2022-04-02 11:52:40,340 DEBUG e.a.c.HelloWorld [main] Example of a DEBUG 1
-2022-04-02 11:52:40,340 FATAL e.a.c.HelloWorld [main] Example of a FATAL 2
-2022-04-02 11:52:40,340 ERROR e.a.c.HelloWorld [main] Example of a ERROR 3
-2022-04-02 11:52:40,340 WARN e.a.c.HelloWorld [main] Example of a WARN 4
-2022-04-02 11:52:40,340 INFO e.a.c.HelloWorld [main] Example of a INFO 5
-2022-04-02 12:02:51,657 WARN e.a.c.Exercise12_03 [main] WARNING
-2022-04-02 12:04:12,598 WARN e.a.c.Exercise12_03 [main] WARNING
-2022-04-02 12:06:08,249 DEBUG e.a.c.Exercise12_03 [main] DEBUG
-2022-04-02 12:09:39,609 WARN e.a.c.Exercise12_03 [main] WARNING: Exception Thrown. OUT OF BOUNDS, java.text.SimpleDateFormat@4f76f1a0
-2022-04-02 12:14:25,536 WARN e.a.c.Exercise12_03 [main] WARNING: Exception Thrown. OUT OF BOUNDS, java.text.SimpleDateFormat@4f76f1a0
-2022-04-02 13:48:47,015 WARN e.a.c.Exercise12_03 [main] WARNING: Exception Thrown. OUT OF BOUNDS
-2022-04-02 13:51:37,596 WARN e.a.c.Exercise12_03 [main] Exception may be thrown.
-2022-04-02 13:51:45,624 INFO e.a.c.Exercise12_03 [main] Exception was thrown.java.lang.ArrayIndexOutOfBoundsException: Index 100 out of bounds for length 100
-2022-04-02 13:55:49,294 ERROR e.a.c.HelloWorldError [main] {}
-java.lang.IllegalArgumentException: Sorry IllegalArgumentException!
-	at edu.arapahoe.csc245.HelloWorldError.getData(HelloWorldError.java:21) ~[classes/:?]
-	at edu.arapahoe.csc245.HelloWorldError.main(HelloWorldError.java:13) [classes/:?]
-2022-04-02 13:56:39,830 DEBUG e.a.c.HelloWorld [main] Hello from Log4j 2
-2022-04-02 13:56:39,831 DEBUG e.a.c.HelloWorld [main] Example of a DEBUG 1
-2022-04-02 13:56:39,832 FATAL e.a.c.HelloWorld [main] Example of a FATAL 2
-2022-04-02 13:56:39,832 ERROR e.a.c.HelloWorld [main] Example of a ERROR 3
-2022-04-02 13:56:39,832 WARN e.a.c.HelloWorld [main] Example of a WARN 4
-2022-04-02 13:56:39,832 INFO e.a.c.HelloWorld [main] Example of a INFO 5
-2022-04-02 13:58:31,284 WARN e.a.c.Exercise12_03 [main] Can cause ArrayIndexOutOfBoundsException
-2022-04-02 13:59:40,370 WARN e.a.c.Exercise12_03 [main] Can cause ArrayIndexOutOfBoundsException
-2022-04-02 13:59:48,606 INFO e.a.c.Exercise12_03 [main] Exception was thrown.java.lang.ArrayIndexOutOfBoundsException: Index 900 out of bounds for length 100
-2022-04-02 14:01:22,179 WARN e.a.c.Exercise12_03 [main] Can cause ArrayIndexOutOfBoundsException
-2022-04-02 14:01:27,204 INFO e.a.c.Exercise12_03 [main] Exception was thrown.java.lang.ArrayIndexOutOfBoundsException: Index 100 out of bounds for length 100
-2022-04-02 14:02:50,299 WARN e.a.c.Exercise12_03 [main] Can cause ArrayIndexOutOfBoundsException
-2022-04-02 14:03:23,297 INFO e.a.c.Exercise12_03 [main] Exception was thrown.java.lang.ArrayIndexOutOfBoundsException: Index 1000 out of bounds for length 100
-2022-04-02 14:04:34,936 WARN e.a.c.Exercise12_03 [main] Can cause ArrayIndexOutOfBoundsException
-2022-04-02 14:05:03,717 WARN e.a.c.Exercise12_03 [main] Can cause ArrayIndexOutOfBoundsException
-2022-04-02 14:06:32,467 WARN e.a.c.Exercise12_03 [main] Can cause ArrayIndexOutOfBoundsException
-2022-04-02 14:06:42,262 WARN e.a.c.Exercise12_03 [main] Can cause ArrayIndexOutOfBoundsException
-2022-04-02 14:16:36,905 WARN e.a.c.Exercise12_03 [main] Can cause ArrayIndexOutOfBoundsException
-2022-04-02 14:16:40,931 INFO e.a.c.Exercise12_03 [main] Exception was thrown.java.lang.ArrayIndexOutOfBoundsException: Index 100 out of bounds for length 100
-2022-04-02 14:50:27,957 WARN e.a.c.Exercise12_03 [main] Can cause ArrayIndexOutOfBoundsException
-2022-04-02 14:50:31,990 INFO e.a.c.Exercise12_03 [main] Exception was thrown.java.lang.ArrayIndexOutOfBoundsException: Index 1000 out of bounds for length 100
+2022-04-03 17:18:32,518 WARN e.a.c.Exercise12_03 [main] Can cause ArrayIndexOutOfBoundsException
+2022-04-03 17:18:45,489 DEBUG e.a.c.HelloWorld [main] Hello from Log4j 2
+2022-04-03 17:18:45,491 DEBUG e.a.c.HelloWorld [main] Example of a DEBUG 1
+2022-04-03 17:18:45,491 FATAL e.a.c.HelloWorld [main] Example of a FATAL 2
+2022-04-03 17:18:45,491 ERROR e.a.c.HelloWorld [main] Example of a ERROR 3
+2022-04-03 17:18:45,491 WARN e.a.c.HelloWorld [main] Example of a WARN 4
+2022-04-03 17:18:45,492 INFO e.a.c.HelloWorld [main] Example of a INFO 5
+2022-04-03 17:21:02,424 WARN e.a.c.Exercise12_03 [main] Can cause ArrayIndexOutOfBoundsException
+2022-04-03 17:21:10,111 INFO e.a.c.Exercise12_03 [main] Exception was thrown.java.lang.ArrayIndexOutOfBoundsException: Index 100 out of bounds for length 100
+
+
+
+

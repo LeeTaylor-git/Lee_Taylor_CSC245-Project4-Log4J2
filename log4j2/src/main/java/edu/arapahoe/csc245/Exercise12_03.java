@@ -15,7 +15,7 @@ public class Exercise12_03 {
         int[] data = new int[100];
 
         // Initialize array
-        // 20220403 tml: Brackets added to for statement to adhere to SIE CERT
+        // 20220403 tml: Use braces for the body of an if, for, or while statement
         for (int i = 0; i < 100; i++) {
             data[i] = (int) (Math.random() * 10000);
         }
