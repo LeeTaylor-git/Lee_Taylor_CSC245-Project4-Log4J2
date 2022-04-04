@@ -1,3 +1,10 @@
+/**
+ * Taylor Lee
+ * Doug Lundin
+ * CSC245-380 Project 4
+ * 20220403
+ */
+
 package edu.arapahoe.csc245;
 
 import org.apache.logging.log4j.LogManager;
